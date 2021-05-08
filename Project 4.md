@@ -1,3 +1,3 @@
 layout: page
 title: "Physicochemical Properties of Protein Tertiary Structure"
-permalink: /AAML/Project 4/
+permalink: /AAML/Project4/

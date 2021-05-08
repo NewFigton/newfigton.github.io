@@ -1,3 +1,3 @@
 layout: page
 title: "Analyzing MNIST Handwriting Data with Neural Nets"
-permalink: /AAML/Project 5/
+permalink: /AAML/Project5/

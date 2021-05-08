@@ -1,3 +1,3 @@
 layout: page
 title: "Comparing Regularization Techniques"
-permalink: /AAML/Project 2/
+permalink: /AAML/Project2/

@@ -1,3 +1,3 @@
 layout: page
 title: "Nonlinear Multivariate Regression Methods - Concrete Strength"
-permalink: /AAML/Project 3/
+permalink: /AAML/Project3/
