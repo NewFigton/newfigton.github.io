@@ -22,12 +22,16 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 1
-  exclude: 'oldrepo' 
+  limit: 9
+  exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     -oldrepo
+     -NewFigton
+     -IntroDataSci
+     -hello-world
+     -Agent_based_modeling_DATA440
 
 # social_media:
   # behance: your_username
