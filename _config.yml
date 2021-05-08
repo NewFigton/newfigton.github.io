@@ -16,14 +16,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
 projects:
   sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
   limit: 1
-  exclude: ["old repo", "NewFigton", "Agent_based_modeling_DATA440", "IntroDataSci", "hello-world"]
+  exclude: 'oldrepo' 
     archived: false
     forks: true
     projects:
