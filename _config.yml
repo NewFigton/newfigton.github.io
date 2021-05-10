@@ -63,3 +63,5 @@ topics:
   - name: Neural Networks
     web_url: https://keras.io/api/applications/densenet/
     image_url: https://www.genengnews.com/wp-content/uploads/2020/07/Jul24_GettyImages-582759294_neurons-scaled.jpg
+
+theme: jekyll-theme-modernist
