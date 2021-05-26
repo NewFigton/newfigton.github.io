@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "Spatial Smash Brothers: Melee"
+permalink: /SSBMHeatmaps/
 ---
 
-# Spatial Smash Brothers: Melee
+
 
 ![Two decades into Melee's lifespan, both programmers and players are breaking new ground](https://i.imgur.com/g9WgiFn.png)
 
