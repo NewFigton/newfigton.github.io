@@ -1,7 +1,0 @@
----
-title: "Welcome!"
-date: 2021-05-08 19:40:00
-categories: AAML, GIS
----
-
-Hello World!
